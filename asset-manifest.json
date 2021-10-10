@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.05488d28.chunk.css",
-    "main.js": "./static/js/main.8c898e4a.chunk.js",
-    "main.js.map": "./static/js/main.8c898e4a.chunk.js.map",
+    "main.css": "./static/css/main.4ca0aa26.chunk.css",
+    "main.js": "./static/js/main.8f0badcf.chunk.js",
+    "main.js.map": "./static/js/main.8f0badcf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.86fce833.js",
     "runtime-main.js.map": "./static/js/runtime-main.86fce833.js.map",
-    "static/js/2.9948343a.chunk.js": "./static/js/2.9948343a.chunk.js",
-    "static/js/2.9948343a.chunk.js.map": "./static/js/2.9948343a.chunk.js.map",
+    "static/js/2.7549f809.chunk.js": "./static/js/2.7549f809.chunk.js",
+    "static/js/2.7549f809.chunk.js.map": "./static/js/2.7549f809.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ea24ae341c620585f95fbb41609b8df0.js": "./precache-manifest.ea24ae341c620585f95fbb41609b8df0.js",
+    "precache-manifest.f0e2c68833fd377050fbbf8a9073151a.js": "./precache-manifest.f0e2c68833fd377050fbbf8a9073151a.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.05488d28.chunk.css.map": "./static/css/main.05488d28.chunk.css.map",
+    "static/css/main.4ca0aa26.chunk.css.map": "./static/css/main.4ca0aa26.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.3b021f8f.svg",
-    "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.b875f719.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.52e0714e.svg",
+    "static/media/animated_minhtd.png": "./static/media/animated_minhtd.b875f719.png",
     "static/media/blogs_image.svg": "./static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.b3685be8.png",
@@ -33,7 +33,6 @@
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.6d325fec.png",
-    "static/media/iiitk_logo.png": "./static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "./static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.4ba886ba.png",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.86fce833.js",
-    "static/js/2.9948343a.chunk.js",
-    "static/css/main.05488d28.chunk.css",
-    "static/js/main.8c898e4a.chunk.js"
+    "static/js/2.7549f809.chunk.js",
+    "static/css/main.4ca0aa26.chunk.css",
+    "static/js/main.8f0badcf.chunk.js"
   ]
 }
