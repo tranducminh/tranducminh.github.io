@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29e1642e58b837a04d185167b0e7bada",
+    "revision": "57e36b2e1768d3e896a2ee0b74d6d742",
     "url": "./index.html"
   },
   {
-    "revision": "c95d8999e6652d9a64d0",
+    "revision": "c8733db8189e5e15b200",
     "url": "./static/css/main.bf71557d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.7549f809.chunk.js"
   },
   {
-    "revision": "c95d8999e6652d9a64d0",
-    "url": "./static/js/main.58c34db5.chunk.js"
+    "revision": "c8733db8189e5e15b200",
+    "url": "./static/js/main.18050481.chunk.js"
   },
   {
     "revision": "175e124a624848d4d0a9",
@@ -242,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
     "url": "./static/media/talksCardBackAlt.b48e86c9.svg"
+  },
+  {
+    "revision": "8cfad7ea78c666b331c12b37499ea254",
+    "url": "./static/media/uet_logo.8cfad7ea.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
